@@ -23,9 +23,9 @@ Key parts of this code are based on code by Stephan Foulis and contributors from
 
 Although it works satisfactorily for my purposes so far, this is not a finished project. In particular, it does not have any tests. Yet.
 
-## Requirements
+## Support
 
-Django 1.5 or later.
+Django 1.8+
 
 ## Quick start
 
